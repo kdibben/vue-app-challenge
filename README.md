@@ -1,2 +1,2 @@
-# web-apps-starter-code
-Starter code for web apps projects
+# vue-app-challenge
+Create a web app using Vue in a 50 minute Web Apps class period
